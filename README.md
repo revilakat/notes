@@ -1,2 +1,2 @@
 # notes
-Notes app
+Notes app that will track your activities
