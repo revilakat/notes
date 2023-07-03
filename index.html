@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Notes App</title>
+  <style>
+    .note {
+      border: 1px solid #ccc;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Notes App</h1>
+  <form id="noteForm">
+    <input type="text" id="noteTitle" placeholder="Note Title" required />
+    <textarea id="noteContent" placeholder="Note Content" required></textarea>
+    <button type="submit">Add Note</button>
+  </form>
+  <div id="noteList"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
