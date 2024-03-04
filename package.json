@@ -1,0 +1,23 @@
+{
+  "name": "dd-notes",
+  "version": "1.0.1",
+  "description": "Notes app that will track your activities",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/revilakat/notes.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "1.0.0",
+    "cj-component": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/revilakat/notes/issues"
+  },
+  "homepage": "https://github.com/revilakat/notes#readme"
+}
